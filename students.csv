@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,AI,Statistics,English,Attendance
+S001,Aarav,Computer Science,88,92,91,85,82,95
+S002,Diya,Computer Science,76,81,84,79,88,90
+S003,Rohan,Information Technology,65,72,70,68,74,82
+S004,Ananya,Computer Science,95,94,97,91,89,98
+S005,Kabir,Information Technology,55,61,58,64,60,75
+S006,Meera,Data Science,82,85,90,88,86,93
+S007,Arjun,Computer Science,39,45,52,48,55,70
+S008,Isha,Data Science,91,89,94,96,90,97
+S009,Vivaan,Information Technology,72,68,75,70,73,85
+S010,Sana,Data Science,86,91,88,92,95,96
+S011,Aditya,Computer Science,44,38,49,52,61,78
+S012,Kiara,Information Technology,78,75,80,77,84,88
+S013,Reyansh,Data Science,60,63,67,59,65,80
+S014,Myra,Computer Science,98,96,99,94,93,99
+S015,Ishaan,Information Technology,51,55,46,58,62,72
+S016,Anika,Data Science,84,87,85,90,89,94
+S017,Dev,Computer Science,33,41,37,45,50,65
+S018,Pari,Information Technology,69,74,72,76,71,86
+S019,Neil,Data Science,89,93,87,91,88,92
+S020,Tara,Computer Science,74,79,82,73,80,89
